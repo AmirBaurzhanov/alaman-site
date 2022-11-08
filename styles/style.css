@@ -436,16 +436,17 @@ main {
     height: 170px;
   }
   .advantages {
-    height: 240px;
+    height: 200px;
   }
   .cards.second {
-    width: 360px;
+    width: 350px;
   }
   .cards.second .card {
-    width: 80px;
+    height: 160px;
+    width: 100px;
   }
   .cards.second .card img {
-    height: 100px;
+    height: 80px;
   }
   .aboutus_text {
     font-size: 12px;

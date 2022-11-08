@@ -391,14 +391,15 @@ main {
         }
     }
     .advantages {
-        height: 240px;
+        height: 200px;
     }
     .cards.second {
-        width: 360px;
+        width: 350px;
         & .card {
-            width: 80px;
+            height: 160px;
+            width: 100px;
             & img {
-                height: 100px;
+                height: 80px;
             }
         }
     }
